@@ -5,7 +5,6 @@
 
 - 🌱 I’m currently learning **SpringBoot (backend), react(frontend)**
 
-- 📫 How to reach me **hamasnawaz6@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
