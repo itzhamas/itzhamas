@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Muhammad Hammas</h1>
 <h3 align="center">Software Engineer</h3>
 
-<p align="left"> <a href="https://twitter.com/itzhamas" target="blank"><img src="https://img.shields.io/twitter/follow/itzhamas?logo=twitter&style=for-the-badge" alt="itzhamas" /></a> </p>
-
 - 🌱 I’m currently learning **SpringBoot (backend), react(frontend)**
 
 
